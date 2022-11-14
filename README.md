@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Virtual Machine Set-up (Azure)
 - Remote Desktop Connection
-- Installation of os-Ticket Requiements such as..
+- Instal/Enable os-Ticket dependencies in window such as IIS(Internet Infofrmation Services), Web Platform Installer, 
 - Installation of os-Ticket
 - Also 5
 
@@ -39,10 +39,10 @@ In this step, virtual machine was set-up in Azure using the free version as show
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SsbrWL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+In order to successfully connect to the above remote desktop computer, same username and password that was used in setting up Azure Virtual Machine was used in a creating a new user.
 </p>
 <br />
 
@@ -50,6 +50,6 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+you
 </p>
 <br />
