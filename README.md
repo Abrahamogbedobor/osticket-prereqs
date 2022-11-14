@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Also 1
+- Microsoft Virtual Machine Set-up (Azure)
 - Also 2
 - Also 3
 - Also 4
@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/eyk99gd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step, virtual machine set-up was carried out in Azure using the free version as shown above. In achieving that, the
+In this step, virtual machine was set-up in Azure using the free version as shown above. The virtual machine comprises of tenants, active subscription, resource groups, virtual network and subnets. Then, a remote desktop machine was then used from a client computer to connect remotely to the virtual machine that was set-up in Azure environment using its public ip address.
 </p>
 <br />
 
