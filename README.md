@@ -85,10 +85,18 @@ The above figure is a database as previously mentioned that is required for os-t
 <img src="https://i.imgur.com/ZAN0JYb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As shown above, the os-Ticket V1.15.8 was downloaded and extracted from the download folder. Furthermore, there is an 'upload' folder among the downloaded os-Ticket files, this folder was then copied into IIS server as shown in the below figure.
+As shown above, the os-Ticket V1.15.8 was downloaded and extracted from the download folder. Furthermore, there is an 'upload' folder among the downloaded os-Ticket files, this folder was then copied into IIS server as shown in the below figures. Specifically, into c:\inetpub\wwwroot and then the 'upload' folder within this wwwroot was renamed as osTicket. In summary, the installed os-Ticket application was dumped into IIS server.
 </p>
 <p>
-<img src="https://i.imgur.com/ZAN0JYb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oCFUcMD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<br />
+ 
+ <p>
+<img src="https:" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+</p>
 <br />
