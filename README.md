@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Virtual Machine Set-up (Azure)
 - Remote Desktop Connection
 - Instal/Enable os-Ticket dependencies in window such as IIS(Internet Infofrmation Services), Web Platform Installer, 
-- Installation of os-Ticket
+- Installation of os-Ticket V1.15.8
 - Also 5
 
 <h2>Installation Steps</h2>
@@ -77,14 +77,14 @@ The above figure is a database as previously mentioned that is required for os-t
 <img src="https://i.imgur.com/e5ZzcYZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  kkk
+ The above figures (c++ redistributable and php manager are the downloaded files that failed previously)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/KMrXf6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZAN0JYb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Internet Information Ser
+As shown above, the os-Ticket V1.15.8 was downloaded and extracted from the download folder. 
 </p>
 <br />
