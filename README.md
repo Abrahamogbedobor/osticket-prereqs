@@ -97,6 +97,38 @@ As shown above, the os-Ticket V1.15.8 was downloaded and extracted from the down
 <img src="https://i.imgur.com/ABuN04A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- From  the above figure, the 'upload' folder from os application that was copied and dumped into IIS server will then be renamed as 'osTicket'
+From  the above figure, the 'upload' folder from os application that was copied and dumped into IIS server was renamed as 'osTicket'. Furtheermore, from IIS   manager page on start-up menu ISS server was then reloaded to complete os integration into IIS server.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/fMllqpn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After restarting IIS server, on the left hand side the following link was clicked site..>default..>osTicket then on the right hand side 'Browse * 80'(http) was clicked as shown above. Basically, when port 80 is entered it then open the osTicket page as shown below.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/plCKtU5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above is a web application that was configured using IIS on a remote desktop computer in microsoft Azure. Also, some extension were not enabled during the loading of the osTicket web application as shown above. Hence, the below figure is used to show the steps used in enabling them.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xg0333K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On ISS server, these steps 'Site..>Degfault..>osTicket' then double-clicked on PHP file. Lastly, the enable/disable link was clicked and the following extensions (php_imap.dll, php_intl.dll, php_opache.dll), were enabled. After enabling them all osTicket aplication browser was then refreshed on the site, which then provide the below changes to the osTRicket web application as shown below.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/lmXkywl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally, 
 </p>
 <br />
