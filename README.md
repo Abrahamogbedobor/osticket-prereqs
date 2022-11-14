@@ -97,6 +97,6 @@ As shown above, the os-Ticket V1.15.8 was downloaded and extracted from the down
 <img src="https://i.imgur.com/ABuN04A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- 
+ From  the above figure, the 'upload' folder from os application that was copied and dumped into IIS server will then be renamed as 'osTicket'
 </p>
 <br />
