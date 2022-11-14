@@ -64,3 +64,11 @@ The above pictures are nternet Information Services installation steps in window
 Internet Information Services is windows web server, because os-ticket uses web browser hence, it is required to enable IIS or instal it as a prerequisites before os-ticket installation. The above picture is used to show the steps used in enabling IIS on windows.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur..png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Internet Information Services is windows web server, because os-ticket uses web browser hence, it is required to enable IIS or instal it as a prerequisites before os-ticket installation. The above picture is used to show the steps used in enabling IIS on windows.
+</p>
+<br />
