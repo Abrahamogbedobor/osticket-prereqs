@@ -74,7 +74,7 @@ The above figure is a database as previously mentioned that is required for os-t
 <br />
 
 <p>
-<img src="https://i.imgur.com/KMrXf6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e5ZzcYZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   kkk
