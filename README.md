@@ -23,9 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Virtual Machine Set-up (Azure)
-- Also 2
-- Also 3
-- Also 4
+- Remote Desktop Connection
+- Installation of os-Ticket Requiements such as..
+- Installation of os-Ticket
 - Also 5
 
 <h2>Installation Steps</h2>
