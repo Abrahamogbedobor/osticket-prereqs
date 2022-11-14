@@ -69,7 +69,7 @@ The above figure is a web platform installer, that was installed in remote deskt
 <img src="https://i.imgur.com/KMrXf6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Internet Information Ser
+The above figure is a database as previously mentioned that is required for os-ticket to function. Any password of my choice was used, and the user name is 'roo't. Also, during installation some php files was unsuccessful however, they were seperately downloaded to complete the prerequisites installation steps as shown below. These files are Microsft c++ redistributable packages and php manager.
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Internet Information Ser
 <img src="https://i.imgur.com/KMrXf6t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure is a database as previously mentioned that is required for os-ticket to function. Any password of my choice was used, and the user name is 'roo't. Also, during installation some php files was unsuccessful however, they were seperately downloaded to complete the prerequisites installation steps as shown below. These files are Microsft c++ redistributable packages and php manager.
+  kkk
 </p>
 <br />
 
