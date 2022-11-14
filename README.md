@@ -58,10 +58,10 @@ The above pictures are Internet Information Services installation steps in windo
 <br />
 
 <p>
-<img src="https://i.imgur..png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ikoLoKB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure is a web platform installer that was used in installing other bunch of software such as 
+The above figure is a web platform installer that was used in installing other bunch of softwares such as MY SQL databse, and some simple version of php files based on os-ticket prerequisite requirements.
 </p>
 <br />
 
