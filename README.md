@@ -50,10 +50,10 @@ In order to successfully connect to the above remote desktop computer, same user
 <img src="https://i.imgur.com/KQuEIhJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/SBovuEf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1a2nX8O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above pictures are nternet Information Services installation steps in windows. ISS is windows web server, as os-ticket uses web browser thus, it was required to enable IIS or instal it as a prerequisites before os-ticket installation. Also, the folder in which the installed IIS file is saved is been highlighted above.
+The above pictures are Internet Information Services installation steps in windows. IIS is windows web server, as os-ticket uses web browser thus, it was required to enable IIS or instal it as a prerequisites before os-ticket installation. Notably, this IIS web server is then used to serve os web aplication on the installed computer. Also, the folder in which the installed IIS file is saved is been highlighted above.
 </p>
 <br />
 
