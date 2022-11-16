@@ -148,6 +148,6 @@ This step involves renaning ost-sampleconfig.php file to ost-config.php
 <img src="https://i.imgur.com/x4J3nLx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is the renamed php file furthermore, permission is been assigned to ost-config.php as shown above. The steps include right clight on the file, then property, security, advance, disable inheritance (i.e stopping it from receiving permission from its parent folder and then create a new permission), remove all permission, then add, select principles (i.e account or person(s)), everyone, click on check name and ok, allow everyone full control, then ok and continue on the osTicket browser to see the above display ticekting page.
+After renaming the file to ost-config.php permission was then assigned to it. The steps of assinging permission includes right clight on the file, then property, security, advance, disable inheritance (i.e stopping it from receiving permission from its parent folder and then create a new permission), remove all permission, then add, select principles (i.e account or person(s)), everyone, click on check name and ok, allow everyone full control, then ok and lastly, continue on the osTicket browser to see the above display ticekting page.
 </p>
 <br />
