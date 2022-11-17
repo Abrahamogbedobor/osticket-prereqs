@@ -148,6 +148,48 @@ This step involves renaning ost-sampleconfig.php file to ost-config.php
 <img src="https://i.imgur.com/x4J3nLx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After renaming the file to ost-config.php permission was then assigned to it. The steps of assinging permission includes right clight on the file, then property, security, advance, disable inheritance (i.e stopping it from receiving permission from its parent folder and then create a new permission), remove all permission, then add, select principles (i.e account or person(s)), everyone, click on check name and ok, allow everyone full control, then ok and lastly, continue on the osTicket browser to see the above display ticekting page.
+After renaming the file to ost-config.php, permission was then assigned to it. The steps of assinging permission includes right clight on the file, then property, security, advance, disable inheritance (i.e stopping it from receiving permission from its parent folder and then create a new permission), remove all permission, then add, select principles (i.e account or person(s)), everyone, click on check name and ok, allow everyone full control, then ok and lastly, continue on the osTicket browser to see the above display ticekting page. Furthermore, the helpdesk user (someone who will use the ticketing platform) and system admin details was then used to complete the above osTicket.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rZ9mYND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/pVKzDpU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This part of the osTicket form is the database. Previously, DB was created (MySQL), at this stage of filling-out the form a client called (HeidiSQL) was installed. The reason for installing this client is to enable users and osTicket admin to be able to connect to the database that was created (i.e helping them to use and edit data/tructure running on their installed computer with MySQL).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/OfQPR0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This was the heidiSQL client that was installed previously. This steps involves creating a new connection as shown above using root as the username and same password that was created during DB set-up.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/BOT5hN3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/ynuTDVI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This steps involves creating new database. Note, on the left-side there are some defult DB that was created during installation. By right clicking on 'unnamed' a new database was then created which was referred as 'osTicket'. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FvEN1XC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Back to the osTicket installation form, the new database that was created (osTicket, with MySQL usrname and password was inputted to complete the osTicket installation as shown above)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SuLudPB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here is the complete osTicket page at the time of this lab with some URLs beneath the page. The first url is for end users (http://localhost/osTicket/) incase they needed to raise a ticket, second is for staff control panel which is help desk professional amd admin that needed to log into the osTicketing system (http://localhost/osTicket/scp). Finally, the following folder (C:\\inetpub\wwwroot\osTicket\setup) on computer C:DRIVE was deleted as a requirement from osTicket, and this folder (C:\\inetpub\wwwroot\osTicket\include\ost-config.php) was set to "Read-only" (read/execue and read).
 </p>
 <br />
