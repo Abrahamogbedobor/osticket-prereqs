@@ -190,6 +190,6 @@ Back to the osTicket installation form, the new database that was created (osTic
 <img src="https://i.imgur.com/SuLudPB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is the complete osTicket page at the time of this lab with some URLs beneath the page. The first url is for end users (http://localhost/osTicket/) incase they needed to raise a ticket, second is for staff control panel which is help desk professional amd admin that needed to log into the osTicketing system (http://localhost/osTicket/scp). Finally, the following folder (C:\\inetpub\wwwroot\osTicket\setup) on computer C:DRIVE was deleted as a requirement from osTicket, and this folder (C:\\inetpub\wwwroot\osTicket\include\ost-config.php) was set to "Read-only" (read/execue and read).
+Here is the complete osTicket page at the time of this lab with some URLs beneath the page. The first url is for end users (http://localhost/osTicket/) incase they needed to raise a ticket, second is for staff control panel which is help desk professional and admin that needed to log into the osTicketing system (http://localhost/osTicket/scp). Finally, the following folder (C:\\inetpub\wwwroot\osTicket\setup) on computer C:DRIVE was deleted as a requirement from osTicket, and this folder (C:\\inetpub\wwwroot\osTicket\include\ost-config.php) was set to "Read-only" (read/execue and read).
 </p>
 <br />
