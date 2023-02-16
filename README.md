@@ -24,9 +24,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Virtual Machine Set-up (Azure)
 - Remote Desktop Connection
-- Instal/Enable os-Ticket dependencies in window such as IIS(Internet Infofrmation Services), Web Platform Installer, 
+- Instal/Enable os-Ticket dependencies in window such as IIS(Internet Infofrmation Services)
+- Installing Web Platform Installer
+- Installing MYSQL Database 
+- Installation of C++ Redistributable  
 - Installation of os-Ticket V1.15.8
-- Also 5
+- Creating Users and Configuring Permission
 
 <h2>Installation Steps</h2>
 
