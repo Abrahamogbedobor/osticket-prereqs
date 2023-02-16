@@ -29,7 +29,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Installing MYSQL Database 
 - Installation of C++ Redistributable  
 - Installation of os-Ticket V1.15.8
-- Creating Users and Configuring Permission
 
 <h2>Installation Steps</h2>
 
